@@ -10,7 +10,7 @@
 
 ![docimage3](https://github.com/user-attachments/assets/0ea9aee9-9374-418e-9e78-52337161bd81)
 
-표, 그림, 캡션 레이블 및 좌표 정보 예
+                  <표, 그림, 캡션 레이블 및 좌표 정보 예>
 
 ## 데이터 통계
 - 페이지(파일) 수: 9,124개
