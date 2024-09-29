@@ -1,6 +1,13 @@
 
 # 표/그림 객체 인식 데이터셋
- 본 데이터셋은 논문 및 연구보고서 등 학술문헌의 표와 그림을 자동으로 추출하기 위한 데이터셋이다.
+ 
+## 개요
+- The data for extracting metadata from PDF domestic papers.
+- The data contains information in layout box extracted from each PDF paper with labels corresponding to metadata field types.
+- The information in each layout box are unique code, text, coordinates(x0, y0, x1, y1) of box, width of box, height of box and font size.
+- The file named as “train.txt” was constructed through the fully automatic inspection process. It contains a total of 5,241,746 labeled layout boxes for 295,306 papers in 503 journals. It was used as train set.
+- The file named as “valid.txt” was developed through the manual inspection process by several annotators. It contains a total of 155,629 labeled layout boxes for 9,895 papers in 503 journals.
+- The file named as “test.txt” was built through the manual inspection process. It contains a total of 159,925 labeled layout boxes for 10,119 papers in 503 journals. It was used as test set.
 
 ## 데이터 포맷(JPG, TXT)
 |유형|설명|
