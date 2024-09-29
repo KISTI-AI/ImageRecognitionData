@@ -8,7 +8,7 @@
 |JPG|표/그림이 존재하는 연구보고서의 페이지를 이미지 파일로 변환|
 |TXT|각 페이지에 존재하는 표, 그림, 캡션의 레이블 및 좌표 정보를 포함|
 <p align="center">
-  <img src="![docimage3](https://github.com/user-attachments/assets/0ea9aee9-9374-418e-9e78-52337161bd81)">
+  <img src="https://github.com/user-attachments/assets/0ea9aee9-9374-418e-9e78-52337161bd81">
  표, 그림, 캡션 레이블 및 좌표 정보 예
 </p>
 
